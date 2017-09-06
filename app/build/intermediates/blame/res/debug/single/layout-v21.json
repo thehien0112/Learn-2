@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

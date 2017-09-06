@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hiennt/Downloads/Learn1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c101de48fdc1605237ed24166b035ebe1cf1562b">
+        <dex dex="/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7705619a7299e7eadcb2dc05e0acadf784b1909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hiennt/Downloads/Learn1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3b1d4d12238919d810b77f2e190f82f86aab5f8/classes.dex" />
+    </item>
+
+</items>

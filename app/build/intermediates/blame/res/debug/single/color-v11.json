@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/hiennt/Downloads/Learn1/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/hiennt/.android/build-cache/27bfdbefe1fd42bc3a90d20d4bb9af02858bfc5f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

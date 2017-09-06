@@ -1,0 +1,7 @@
+#Fri Aug 25 16:09:38 ICT 2017
+base.0=/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7705619a7299e7eadcb2dc05e0acadf784b1909
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3b1d4d12238919d810b77f2e190f82f86aab5f8/classes.dex
+base.1=/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e3b1d4d12238919d810b77f2e190f82f86aab5f8
+file.0=/home/hiennt/Downloads/Learn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7705619a7299e7eadcb2dc05e0acadf784b1909/classes.dex
